@@ -1,1 +1,1 @@
-# projet_fyc_jmg
+# projet-fyc-jmg
